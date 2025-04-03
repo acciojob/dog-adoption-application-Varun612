@@ -1,2 +1,6 @@
 
 /* Your CSS Code here. */
+#submit {
+	border-radius: 1rem;
+	border-color: 2px solid black;
+}
